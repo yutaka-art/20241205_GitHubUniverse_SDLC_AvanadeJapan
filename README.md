@@ -1,0 +1,2 @@
+# 20241205_GitHubUniverse_SDLC_AvanadeJapan
+20241205_ソフトウェア開発ライフサイクルを進化させるGitHub Universe 2024の最新トピック
